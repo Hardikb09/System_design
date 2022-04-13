@@ -7,3 +7,5 @@
 ### Other Resources  
 - https://github.com/donnemartin/system-design-primer
 - [System Design by InterviewCamp](https://www.systemdesign.org)
+
+Would love if you can add more!
