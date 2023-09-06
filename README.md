@@ -8,5 +8,7 @@
 ### Other Resources  
 - https://github.com/donnemartin/system-design-primer
 - [System Design by InterviewCamp](https://www.systemdesign.org)
+- https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers
+- https://www.designgurus.io/course/grokking-the-system-design-interview
 
 Would love if you can add more :)
